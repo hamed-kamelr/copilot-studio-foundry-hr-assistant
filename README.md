@@ -8,7 +8,7 @@ An employee asks about their benefit plan costs or paid time off balance. Copilo
 
 ## Demo
 
-▶ **[Watch the demo (MP4, 1:15)](demo/hr-assistant-demo.mp4)** · also on [Loom](https://www.loom.com/share/aa52e3b1ee514b7e822610d0bd6ffe51)
+▶ **[Watch the demo (MP4, 1:15)](demo/hr-assistant-demo.mp4)** 
 
 An employee types "calculate PTO", fills in the card, and the Foundry agent returns the benefit cost comparison and projected PTO balance inside the Copilot Studio chat.
 
@@ -78,13 +78,6 @@ Employee
     └── hr-assistant-demo.mp4    Screen recording of the working flow
 ```
 
----
-
-## Quick start
-
-1. **Foundry**: create a project, deploy a chat model, create a prompt agent, enable Code Interpreter, and paste in [`foundry/agent-instructions.md`](foundry/agent-instructions.md). See [docs/01-foundry-agent.md](docs/01-foundry-agent.md).
-2. **Copilot Studio**: create an agent, add a topic, add the Adaptive Card from [`copilot-studio/adaptive-card.json`](copilot-studio/adaptive-card.json). See [docs/02-copilot-studio.md](docs/02-copilot-studio.md).
-3. **Connect**: add a Send HTTP request node pointing at the Foundry agent's Responses endpoint. See [docs/03-connecting.md](docs/03-connecting.md).
 
 ---
 

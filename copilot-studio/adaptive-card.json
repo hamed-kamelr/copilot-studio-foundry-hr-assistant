@@ -1,0 +1,43 @@
+{
+  "type": "AdaptiveCard",
+  "version": "1.5",
+  "body": [
+    {
+      "type": "Input.Number",
+      "id": "salary",
+      "label": "Annual salary",
+      "minimum": 0,
+      "isRequired": true,
+      "errorMessage": "Enter your annual salary"
+    },
+    {
+      "type": "Input.Number",
+      "id": "familySize",
+      "label": "Family size (including you)",
+      "minimum": 1,
+      "isRequired": true,
+      "errorMessage": "Enter your family size"
+    },
+    {
+      "type": "Input.Date",
+      "id": "hireDate",
+      "label": "Hire date",
+      "isRequired": true,
+      "errorMessage": "Select your hire date"
+    },
+    {
+      "type": "Input.Number",
+      "id": "daysUsed",
+      "label": "PTO days used since hire",
+      "minimum": 0,
+      "isRequired": true,
+      "errorMessage": "Enter PTO days used"
+    }
+  ],
+  "actions": [
+    {
+      "type": "Action.Submit",
+      "title": "Submit"
+    }
+  ]
+}

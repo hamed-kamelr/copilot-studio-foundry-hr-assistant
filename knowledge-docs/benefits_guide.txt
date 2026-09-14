@@ -1,0 +1,30 @@
+EMPLOYEE BENEFITS GUIDE (SAMPLE)
+Effective January 1, 2026
+
+This guide summarizes the two medical plan options available during open enrollment.
+
+1. PPO PLAN
+- Monthly employee premium: $220 (employee only), $610 (family of 4)
+- Annual deductible: $500 individual / $1,000 family
+- Out-of-pocket maximum: $3,000 individual / $6,000 family
+- Employer HSA contribution: none (not HSA-eligible)
+- Coinsurance after deductible: plan pays 80%, employee pays 20%
+
+2. HDHP PLAN (High Deductible Health Plan)
+- Monthly employee premium: $95 (employee only), $310 (family of 4)
+- Annual deductible: $2,000 individual / $4,000 family
+- Out-of-pocket maximum: $4,500 individual / $9,000 family
+- Employer HSA contribution: $750/year individual, $1,500/year family, deposited quarterly
+- Coinsurance after deductible: plan pays 80%, employee pays 20%
+
+3. HOW TO ESTIMATE ANNUAL COST
+Total estimated annual cost = (monthly premium x 12) + expected out-of-pocket medical spending,
+minus any employer HSA contribution (HDHP only).
+Employees should compare plans based on their expected annual medical usage, not premium
+cost alone, since the HDHP has a lower premium but higher deductible before the plan starts
+paying a share of costs.
+
+4. ENROLLMENT WINDOW
+Open enrollment runs November 1 through November 30 each year. Elections take effect
+January 1 of the following year. Outside this window, plan changes are only permitted
+following a qualifying life event, such as marriage, birth of a child, or loss of other coverage.

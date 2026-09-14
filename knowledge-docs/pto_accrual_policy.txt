@@ -1,0 +1,25 @@
+PAID TIME OFF (PTO) ACCRUAL POLICY (SAMPLE)
+Effective January 1, 2026
+
+1. ACCRUAL RATES BY TENURE
+PTO accrues monthly based on an employee's length of service, measured from their hire date:
+- 0 to 2 years of service: 1.25 days per month (15 days per year)
+- 3 to 5 years of service: 1.67 days per month (20 days per year)
+- Over 5 years of service: 2.08 days per month (25 days per year)
+
+2. HOW ACCRUAL WORKS
+PTO accrues on the last day of each completed calendar month of employment. An employee
+hired mid-month begins accruing from the following full month. Accrual is prorated only in
+an employee's final partial month of employment upon separation, calculated as
+(days worked in the month / total days in the month) x monthly accrual rate.
+
+3. CARRYOVER
+Employees may carry over up to 5 unused PTO days into the following calendar year. Any
+balance above 5 days is forfeited on December 31 unless local law requires otherwise.
+
+4. CALCULATING A FUTURE BALANCE
+To estimate PTO balance on a future date:
+Projected balance = current balance + (number of full months remaining until that date x
+applicable monthly accrual rate) - any PTO already scheduled to be used in that period.
+Tenure-based rate changes take effect the month following the employee's service
+anniversary date.

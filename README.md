@@ -8,7 +8,7 @@ An employee asks about their benefit plan costs or paid time off balance. Copilo
 
 ## Demo
 
-▶ **[Watch the 2-minute demo on Loom](https://www.loom.com/share/aa52e3b1ee514b7e822610d0bd6ffe51)**
+▶ **[Watch the demo (MP4, 1:15)](demo/hr-assistant-demo.mp4)** · also on [Loom](https://www.loom.com/share/aa52e3b1ee514b7e822610d0bd6ffe51)
 
 An employee types "calculate PTO", fills in the card, and the Foundry agent returns the benefit cost comparison and projected PTO balance inside the Copilot Studio chat.
 
@@ -71,9 +71,11 @@ Employee
 ├── copilot-studio/
 │   ├── adaptive-card.json       The input form
 │   └── powerfx-snippets.md      Formulas used in the topic
-└── knowledge-docs/
-    ├── benefits_guide.txt       Sample benefits data
-    └── pto_accrual_policy.txt   Sample PTO policy
+├── knowledge-docs/
+│   ├── benefits_guide.txt       Sample benefits data
+│   └── pto_accrual_policy.txt   Sample PTO policy
+└── demo/
+    └── hr-assistant-demo.mp4    Screen recording of the working flow
 ```
 
 ---

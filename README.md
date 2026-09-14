@@ -8,7 +8,10 @@ An employee asks about their benefit plan costs or paid time off balance. Copilo
 
 ## Demo
 
-▶ **[Watch the demo (MP4, 1:15)](demo/hr-assistant-demo.mp4)** 
+
+https://github.com/user-attachments/assets/1cd16ef5-bfd4-403a-8160-24ef80c260e2
+
+
 
 An employee types "calculate PTO", fills in the card, and the Foundry agent returns the benefit cost comparison and projected PTO balance inside the Copilot Studio chat.
 
